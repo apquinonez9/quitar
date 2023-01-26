@@ -1,0 +1,4 @@
+# quitar
+checkout
+reset 
+reverse
